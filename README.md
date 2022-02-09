@@ -15,21 +15,21 @@ The script "BitcoinDigger.py" does not load your processor. Even if your file: "
 
 ### Requirements:
 
-Python3
-Ubuntu (>= 18.04)
+<li>Python3</li>
+<li>Ubuntu (>= 18.04)</li>
 
 
 ### Download, clone this repository:
 
-git clone https://github.com/BITCOINDIGGER/bitcoindigger.git
+<code>git clone https://github.com/BITCOINDIGGER/bitcoindigger.git</code>
 
 ### Go to directory:
 
-cd bitcoindigger/
+<code>cd bitcoindigger/</code>
 
 ### Run:
 
-python3 BitcoinDigger.py
+<code>python3 BitcoinDigger.py</code>
 
 
 ### Search results:
