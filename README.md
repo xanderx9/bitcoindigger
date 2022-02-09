@@ -21,7 +21,7 @@ Ubuntu (>= 18.04)
 
 ### Download, clone this repository:
 
-git clone https://github.com/bitcoindigger/bitcoindigger.git
+git clone https://github.com/BITCOINDIGGER/bitcoindigger.git
 
 ### Go to directory:
 
