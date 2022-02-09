@@ -1,4 +1,4 @@
-### Hi there 👋
+### Поиск приватных ключей для получение Биткоинов, использующих собственный алгоритм "Bloom filter"
 
 <!--
 **BITCOINDIGGER/bitcoindigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
