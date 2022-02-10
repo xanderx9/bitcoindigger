@@ -49,9 +49,10 @@ You can check and see <strong>"Address+Balance.txt"</strong> how many BTC coins 
 <code>python3 TestBitcoinDigger.py</code>
 
 This test process shows that the script scans everything contained in the file, generating random private keys.<br>
-When the <strong>"Bloom filter"</strong> module is enabled, the process of searching and generating random private keys increases.
+When the <strong>"Bloom filter"</strong> module is enabled, the process of searching and generating random private keys increases.<br>
 
 
+<p><img src="https://raw.githubusercontent.com/BITCOINDIGGER/bitcoindigger/807f825d6bc11b0b4c1dd71cbf9ba372fb0ff3b0/motivation.png" alt="" /></p>
 
 
 ### Bibliography:
