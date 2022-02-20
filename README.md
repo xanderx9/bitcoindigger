@@ -27,6 +27,7 @@ The script <strong>"BitcoinDigger.py"</strong> does not load your processor. Eve
 
 <code>cd bitcoindigger/</code>
 <br>
+<br>
 <code>chmod +x storagespace</code><br>
 <code>chmod +x algorithm</code><br>
 <code>sed -i -e 's/\r$//' storagespace</code><br>
