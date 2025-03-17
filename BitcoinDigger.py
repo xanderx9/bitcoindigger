@@ -16,7 +16,7 @@ while counter < 1:
     addr = pubtoaddr(pub)
 
     #searches file for address match if the priv key generated matchs any address in the Address.txt it will print it and auto save it
-    searchfile = open("Address+Balance.txt","r")
+    searchfile = open("1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ","r")
 
     for line in searchfile:
         if addr in line:
