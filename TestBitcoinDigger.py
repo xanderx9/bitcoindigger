@@ -14,7 +14,7 @@ while counter < 1:
 
     priv =  random_key()
     pub = privtopub(priv)
-    addr = pubtoaddr(pub)[:+34]
+    addr = pubtoaddr(pub)
 
     #searches file for address match if the priv key generated matchs any address in the Address.txt it will print it and auto save it
     searchfile = open("TestAddress.txt","r")
