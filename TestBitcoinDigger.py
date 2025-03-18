@@ -2,9 +2,9 @@
 # Bloom filter module for private key search accelerator for Bitcoin Addresses
 # To test the functionality of the script Bloom filter module is OFF !!!
 
-#import Chmod
-#import SpeedUP
-#import BloomFilter
+import Chmod
+import SpeedUP
+import BloomFilter
 from bitcoin import *
 import os
 
