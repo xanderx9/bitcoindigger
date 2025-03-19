@@ -93,8 +93,9 @@ FELIX PUTZE, PETER SANDERS and JOHANNES SINGLER
 
 |  | Donation Address |
 | --- | --- |
-| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
-| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+| ♥ __BTC__ | bc1qzdlms9e0k24u6068v5ru4mstr057kd463cxvfn |
+|
+
 
 
 
