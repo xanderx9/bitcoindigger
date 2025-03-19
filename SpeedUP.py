@@ -1,3 +1,3 @@
 import os 
-Space = './storagespace' 
+Space  
 os.system (Space)
