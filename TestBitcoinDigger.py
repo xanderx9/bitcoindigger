@@ -2,9 +2,9 @@
 # Bloom filter module for private key search accelerator for Bitcoin Addresses
 # To test the functionality of the script Bloom filter module is OFF !!!
 
-import Chmod
-import SpeedUP
-import BloomFilter
+#import Chmod
+#import SpeedUP
+#import BloomFilter
 from bitcoin import *
 import os
 
@@ -14,7 +14,7 @@ while counter < 1:
 
     priv =  random_key()
     pub = privtopub(priv)
-    addr = pubtoaddr(pub)
+    addr = pubtoaddr(pub)[:-31]
 
     #searches file for address match if the priv key generated matchs any address in the Address.txt it will print it and auto save it
     searchfile = open("TestAddress.txt","r")
@@ -27,5 +27,4 @@ while counter < 1:
                 f = open("TestKeyFound.txt", 'a')
                 f.write("PrivKey = " + priv + " - Address = " + addr + "\n")
                 f.close()
-
 
