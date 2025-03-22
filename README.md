@@ -29,7 +29,7 @@ https://github.com/xanderx9/bitcoindigger.git</code>
 <code>cd bitcoindigger/</code>
 <br>
 <br>
-<code>chmod +x storagespace'sh</code><br>
+<code>chmod +x storagespace.sh</code><br>
 <code>chmod +x algorithm.sh</code><br>
 <code>sed -i -e 's/\r$//' storagespace</code><br>
 <code>sed -i -e 's/\r$//' algorithm</code><br>
