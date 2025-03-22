@@ -21,7 +21,8 @@ The script <strong>"BitcoinDigger.py"</strong> does not load your processor. Eve
 
 ### Download, clone this repository:
 
-<code>git clone [(https://github.com/xanderx9/bitcoindigger.git)]((https://github.com/xanderx9/bitcoindigger.git))</code>
+<code>git clone https://github.com/xanderx9/bitcoindigger.git
+https://github.com/xanderx9/bitcoindigger.git</code>
 
 ### Go to directory:
 
