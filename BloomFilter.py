@@ -1,3 +1,3 @@
 import os 
-BFilter 
+BFilter = './algorithm' 
 os.system (BFilter)
